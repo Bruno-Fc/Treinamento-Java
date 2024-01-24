@@ -45,6 +45,8 @@ public class Program {
 				int numEmployee = sc.nextInt();
 				Person p2 = new Legal(name, income, numEmployee);
 				person.add(p2);
+				//person.add(p2 new Legal(name, income, numEmployee));
+				
 			}
 		}
 		System.out.println();

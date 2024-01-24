@@ -7,7 +7,7 @@ public class Physical extends Person{
 	public Physical(){
 		super();
 	}
-
+	//construtores
 	public Physical(String name, Double income, Double health) {
 		super(name, income);
 		this.health = health;
